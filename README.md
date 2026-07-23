@@ -1,16 +1,14 @@
-## Hi there 👋
+# [MOI]
 
-<!--
-**Gab641/Gab641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yo ! Je m'appelle Gabriel, j'ai actuellement 17 ans, je viens de passer le bac et je m'apprête à faire une licence en informatique/mathématiques à l'université d'Évry. 
 
-Here are some ideas to get you started:
+**Les raisons pour lesquelles j'ai commencé GitHub étaient que je souhaitais m'améliorer et commencer à découvrir différents domaines en informatique en dehors des cours. Ces domaines en question sont les suivants :**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersécurité
+- Data Science
+- Software engineering
+- Utiliser github efficacement 
+
+## Links : 
+
+**(pas encore :/)**
