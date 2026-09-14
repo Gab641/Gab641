@@ -1,13 +1,12 @@
 # [MOI]
 
-### Yo ! Je m'appelle Gabriel, j'ai actuellement 17 ans, je viens de passer le bac et je m'apprête à faire une licence en informatique/mathématiques à l'université d'Évry. 
+### Yo ! Je m'appelle Gabriel, j'ai actuellement 18 ans, je fais actuellement une L1 / portail math info a l'université d'Evry Paris Saclay. 
 
-**Les raisons pour lesquelles j'ai commencé GitHub étaient que je souhaitais m'améliorer et commencer à découvrir différents domaines en informatique en dehors des cours. Ces domaines en question sont les suivants :**
+**j'ai commencé github un peu près comme tout le monde , pour pouvoir stocker mes projet en ligne et les modifié avec facilité :**
 
-- Cybersécurité
-- Data Science
-- Software engineering
-- Utiliser github efficacement 
+*projet*
+
+tracker de data pour le jeu league of legends sous forme de bot discord [WIP]
 
 ## Links : 
 
